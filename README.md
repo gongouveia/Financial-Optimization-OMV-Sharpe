@@ -1,2 +1,3 @@
 # Financial-Optimization-OMV-Sharpe
-Métodos de Otimização em Finanças, projeto final, codigos auxiliares em Matlab para curva OMV, racio de sharpe e regiões admissiveis
+Optimization Methods in Finance, final project, auxiliary codes in Matlab for OMV curve, sharpe ratio and admissible regions
+
